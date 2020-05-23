@@ -1,0 +1,23 @@
+{
+  "name": "vikram",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikramadithya",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.5.0",
+    "boxicons": "^2.0.5",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.5.1",
+    "jquery.counterup": "^2.1.0",
+    "typed.js": "^2.0.11",
+    "venobox": "^1.8.9",
+    "waypoints": "^4.0.1"
+  }
+}
